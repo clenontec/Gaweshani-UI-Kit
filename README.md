@@ -11,7 +11,7 @@ All these completly FREE under MIT license. You can use Gaweshani UI Kit even co
 
 ![Screenshot 2](https://www.clenontec.com/en-gb/gaweshani-ui-free/img/ss/Capture.PNG)
 
-### Online Documentation cpming soon !
+### Online Documentation coming soon !
 
 ### Fonts & Images
  - Google Fonts: http://www.google.com/fonts
