@@ -1,13 +1,13 @@
 # Gaweshani-UI-Kit
 A modern bootstrap based UI toolkit for web makers.
 
-Live Preview.. (https://www.clenontec.com/en-gb/gaweshani-ui-free/)
+Live Preview.. ( https://www.clenontec.com/en-gb/gaweshani-ui-free/ )
 
 All these completly FREE under MIT license. You can use Gaweshani UI Kit even commercially!
 
 ![Main Screenshot](https://www.clenontec.com/en-gb/gaweshani-ui-free/img/ss/main.PNG)
 
-###Fonts & Images
+### Fonts & Images
  - Google Fonts: http://www.google.com/fonts
  - Unsplash Beautiful free photos: http://unsplash.com
 
@@ -15,8 +15,8 @@ All these completly FREE under MIT license. You can use Gaweshani UI Kit even co
 
 ![Screenshot 2](https://www.clenontec.com/en-gb/gaweshani-ui-free/img/ss/Capture.PNG)
 
-##Licensed under MIT
+## Licensed under MIT
 
 Gaweshani UI Kit is Open Source project and licensed under MIT for better Web.
 
-###A special package is comming ! Follow us for more info. [ https://twitter.com/clenontec ]
+### A special package is comming ! Follow us for more info. [ https://twitter.com/clenontec ]
