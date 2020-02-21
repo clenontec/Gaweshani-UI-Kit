@@ -1,3 +1,5 @@
+There are many mistakes in this UI Kit. We'll be releasing a new version soon !
+
 # Gaweshani-UI-Kit
 A modern bootstrap based UI toolkit for web makers.
 
