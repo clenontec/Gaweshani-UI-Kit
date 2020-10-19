@@ -1,9 +1,7 @@
 There are many mistakes in this UI Kit. We'll be releasing a new version soon !
 
 # Gaweshani-UI-Kit
-A modern bootstrap based UI toolkit for web makers.
-
-Live Preview.. ( https://www.clenontec.com/en-gb/gaweshani-ui-free/ )
+A modern bootstrap based UI toolkit for web makers
 
 All these completly FREE under MIT license. You can use Gaweshani UI Kit even commercially!
 
