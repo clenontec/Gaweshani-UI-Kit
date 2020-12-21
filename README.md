@@ -5,11 +5,11 @@ A modern bootstrap based UI toolkit for web makers
 
 All these completly FREE under MIT license. You can use Gaweshani UI Kit even commercially!
 
-![Main Screenshot](https://www.clenontec.com/en-gb/gaweshani-ui-free/img/ss/main.PNG)
+![Main Screenshot](main.PNG)
 
-![Screenshot 1](https://www.clenontec.com/en-gb/gaweshani-ui-free/img/ss/buttons.PNG)
+![Screenshot 1](buttons.PNG)
 
-![Screenshot 2](https://www.clenontec.com/en-gb/gaweshani-ui-free/img/ss/Capture.PNG)
+![Screenshot 2](Capture.PNG)
 
 ### Quick Start Template
 
